@@ -12,14 +12,13 @@
     <title>F&iacute;sica para todos</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
     <!-- Theme CSS -->
     <link href="css/freelancer.css" rel="stylesheet">
     <link href="css/ekko-lightbox.css" rel="stylesheet">
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,600,700&display=swap" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -52,174 +51,358 @@
                         <a href="#page-top">Inicio</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#guias">Gu&iacute;as institucionales</a>
+                        <a href="#puertas">Puertas</br>Abiertas</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#perfiles">Perfiles IFUNAM</a>
+                        <a href="#futuro">F&iacute;sica</br> en tu futuro</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#proyectos">Proyectos Gr&aacute;ficos</a>
+                        <a href="#divulgacion">Charlas</br> de divulgaci&oacute;n</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#eventos">Eventos</a>
+                        <a href="#femenino">F&iacute;sica</br> en femenino</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#enlaces">Enlaces</a>
+                        <a href="#periodistas">F&iacute;sica</br> para periodistas</a>
                     </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container-fluid -->
     </nav>
-
     <!-- Header -->
     <header>
     </header>
     <section class="banner">
         <div class="container">
             <div class="row">
-                    <img class="img-responsive" src="img/header.png" alt="">
+                    <img class="img-responsive" src="img/header.jpg" alt="">
             </div>
         </div>
     </section>
-    <section class="intro" id="intro">
+    <section class="main intro" id="intro">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-justify">
-			<p>
-			El Instituto de F&iacute;sica de la UNAM tiene el compromiso de promover condiciones de igualdad de g&eacute;nero para toda su comunidad, incluidos, estudiantes, investigadores, t&eacute;cnicos acad&eacute;micos y personal administrativo. A trav&eacute;s de esta p&aacute;gina, pretende difundir la legislaci&oacute;n universitaria sobre la igualdad de g&eacute;nero as&iacute; como la normatividad para la prevenci&oacute;n, atenci&oacute;n y sanci&oacute;n hacia la discriminaci&oacute;n. El IF tambi&eacute;n ha emprendido una estrategia de comunicaci&oacute;n para visibilizar el trabajo y el talento de sus acad&eacute;micas, con el objetivo de promover la carrera de f&iacute;sica como una posibilidad profesional real y libre de prejuicios para las ni&ntilde;as y j&oacute;venes as&iacute; como para disminuir y erradicar las brechas de g&eacute;nero que a&uacute;n existen en la ciencia.
-			</p>
-			<p></br>
-			Con ello, el IF busca sensibilizar y concientizar a la comunidad sobre la importancia de la igualdad de g&eacute;nero para contribuir a la igualdad de derechos y oportunidades para hombres y mujeres.
-			<p></br>
+			        <p>
+                    En el Instituto de F&iacute;sica de la UNAM (IF), uno de nuestros principales compromisos es el de divulgar el conocimiento y difundir las labores que realizamos, no s&oacute;lo a p&uacute;blico especializado, sino a la sociedad en general.</br>El proyecto <strong>F&iacute;sica para Todos</strong> desde el Instituto de F&iacute;sica incluye un conjunto de actividades dise&ntilde;adas para acercar y difundir, de primera mano, las investigaciones que desarrollamos en el IF hacia los diferentes sectores, entre ellos, p&uacute;blico en general, educaci&oacute;n b&aacute;sica, media superior y superior. 
+                    </p>
                 </div>
+                <div class="col-xs-12 col-md-6 col-md-offset-3 text-justify">
+                    <h3>
+                    Dar a conocer la relevancia que la f&iacute;sica tiene en el avance cient&iacute;fico y tecnol&oacute;gico que acompaña nuestra cotidianeidad...
+                    </h3>
+                    </div>
             </div>
+        </div>
+    </section>
+    <section class="main intro2">
+        <div class="container">
             <div class="row">
-                <div class="col-xs-10 col-xs-offset-1 text-justify">
-			<div class="embed-responsive embed-responsive-16by9">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/_7zCtKl9yKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
+            <div class="col-lg-12 text-justify">
+			        <p>
+                    El prop&oacute;sito, por un lado, es dar a conocer la relevancia que la f&iacute;sica tiene en el avance cient&iacute;fico y tecnol&oacute;gico que acompa&ntilde;a nuestra cotidianeidad y que es la base de futuros desarrollos encaminados entre otros, al an&aacute;lisis y posible soluci&oacute;n de problemas nacionales y, por otro, acercar a los estudiantes en formaci&oacute;n a ser parte del n&uacute;cleo de la f&iacute;sica, bien sea eligi&eacute;ndola como su actividad profesional a desarrollar dentro de nuestra Universidad o en otras instituciones, o bien, escogiendo realizar sus estudios de posgrado en las diversos programas y &aacute;reas de investigaci&oacute;n que se cultivan en el IF.
+                    </p>
                 </div>
             </div>
         </div>
     </section>
-    <section class="intro2" id="guias">
+  <section class="proyectos morado" id="perfiles">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-			<h3>GU&Iacute;AS INSTITUCIONALES</h3>
+                        <h3>PROYECTOS</h3>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-12 col-md-3 text-center">
-			<a href="pdf/protocolo-de-actuacion-en-casos-de-violencia-de-genero.pdf" target="_blank">
-			<img class="img-responsive" src="img/pdf-icon.png" alt="">
-			<h3>Protocolo para la Atenci&oacute;n </br>de Casos de Violencia de G&eacute;nero en la UNAM</h3>
-			</a>
+                <div class="col-xs-6 col-md-2 col-md-offset-1 text-center">
+                    <img src="img/puertas_abiertas_v1.png" class="img-responsive img-centered">
                 </div>
-                <div class="col-xs-12 col-md-3 text-center">
-			<a href="pdf/version-amigable-protocolo-de-actuacion-en-casos-de-violencia-de-genero.pdf" target="_blank">
-			<img class="img-responsive" src="img/pdf-icon.png" alt="">
-			<h3>Protocolo amigable</h3>
-			</a>
+                <div class="col-xs-6 col-md-2 text-center">
+                    <img src="img/fisica_futuro_v1.png" class="img-responsive img-centered">
                 </div>
-                <div class="col-xs-12 col-md-3 text-center">
-			<a href="pdf/lineamientos_igualdad_genero_2013.pdf" target="_blank">
-			<img class="img-responsive" src="img/pdf-icon.png" alt="">
-			<h3>Lineamientos </br>de igualdad de la UNAM</h3>
-			</a>
+                <div class="col-xs-6 col-md-2 text-center">
+                    <img src="img/charlas_divulgacion_v1.png" class="img-responsive img-centered">
                 </div>
-                <div class="col-xs-12 col-md-3 text-center">
-			<a href="https://consejo.unam.mx/comisiones/especial-de-equidad-de-genero/reglamentos-y-lineamientos/493-dbfpig" target="_blank">
-			<img class="img-responsive" src="img/pdf-icon.png" alt="">
-			<h3>Documento B&aacute;sico para el Fortalecimiento de la Pol&iacute;tica Institucional de G&eacute;nero de la UNAM</h3>
-			</a>
+                <div class="col-xs-6 col-md-2 text-center">
+                    <img src="img/fisica_femenino_v1.png" class="img-responsive img-centered">
                 </div>
-            </div>
-        </div>
-    </section>
-    <section class="intro" id="guias">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-			<h3>VIDEOS DE DIFUSI&Oacute;N</h3>
+                <div class="col-xs-6 col-md-2 text-center">
+                    <img src="img/fisica_periodistas_v1.png" class="img-responsive img-centered">
                 </div>
-            </div>
-            <div class="row">
-                <!--<div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-                                <a href="https://www.youtube.com/embed/_7zCtKl9yKM" data-toggle="lightbox" data-gallery="youtubevideos">
+            
+              <!--                  <a href="https://www.youtube.com/watch?v=4V6rNp6q-kE" data-toggle="lightbox" data-gallery="youtubevideos">
                                 <img src="img/perfiles_ifunam_andrea.jpg" class="img-responsive img-centered">
                                 </a>
-			</p>
-                </div>-->
+    -->
+                </div>
             </div>
         </div>
-    </section>
-  <section class="perfiles" id="perfiles">
+   </section>
+   <section class="proyectos amarillo">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-8 col-md-offset-4 text-justify">
+			        <p>
+                    Un evento para dar a conocer nuestro quehacer cient&iacute;fico y que los visitantes vean de primera mano la labor de investigaci&oacute;n en diversos temas de f&iacute;sica, te&oacute;rica y experimental, que se cultivan en el IF.    
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-3 col-md-offset-1 text-center">
+                    <img class="img-responsive" src="img/puertas_abiertas_seccion.png" alt="">
+                </div>
+                <div class="col-xs-12 col-md-6 col-md-offset-1">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_lugar_morado.png" alt="">
+			                <p>Viernes 13 de noviembre</br>9:30 a 18:00 horas</br>Instituto de F&iacute;sica</p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive" src="img/icon_user_morado.png" alt="">
+			                <p>P&uacute;blico no experto,</br>estudiantes de bachillerato</br>especialmente</p>
+                        </div>
+                    </div>   
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_video_morado.png" alt="">
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive" src="img/icon_web_morado.png" alt="">
+                        </div>
+                    </div>   
+                </div>
+            </div>
+        </div>
+   </section>
+   <section class="proyectos verde">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-8 col-md-offset-4 text-justify">
+			        <p>
+                    Un d&iacute;a para que la comunidad acad&eacute;mica del Instituto de F&iacute;sica d&eacute; a conocer los temas y l&iacute;neas de investigaci&oacute;n del IF con el prop&oacute;sito de invitarlos a continuar su formaci&oacute;n en el Posgrado en Ciencias F&iacute;sicas.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-3 col-md-offset-1 text-center">
+                    <img class="img-responsive" src="img/fisica_futuro_seccion.png" alt="">
+                </div>
+                <div class="col-xs-12 col-md-6 col-md-offset-1">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_lugar_verde.png" alt="">
+			                <p>Martes 24 de marzo</br>10:00 a 18:00 horas</br>Amoxcalli</br>Facultad de Ciencias</p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive" src="img/icon_user_verde.png" alt="">
+			                <p>Estudiantes de la Facultad</br>de Ciencias o de la carrera</br>de f&iacute;sica de cualquier</br>otra universidad</p>
+                        </div>
+                    </div>   
+                </div>
+            </div>
+        </div>
+   </section>
+   <section class="proyectos aqua">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                        <h3>PERFILES</h3>
+                        <h4>Programa</h4>
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-                                <a href="https://www.youtube.com/watch?v=4V6rNp6q-kE" data-toggle="lightbox" data-gallery="youtubevideos">
-                                <img src="img/perfiles_ifunam_andrea.jpg" class="img-responsive img-centered">
-                                </a>
-			</p>
+                <div class="col-xs-12 col-md-7 col-md-offset-5 text-justify">
+			        <p>
+                    </p>
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-                                <a href="https://www.youtube.com/watch?v=pDDhl5wDRKo" data-toggle="lightbox" data-gallery="youtubevideos">
-                                <img src="img/perfiles_ifunam_aurore.jpg" class="img-responsive img-centered">
-                                </a>
-			</p>
+            </div>
+        </div>
+   </section>
+   <section class="proyectos verde">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-5 col-md-offset-6">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_registro_verde.png" alt="">
+			                <h4>Registro</h4>
+                        </div>
+                    </div>   
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-				<a href="https://www.youtube.com/watch?v=vUDCEK36dVA" data-toggle="lightbox" data-gallery="youtubevideos">
-                                <img src="img/perfiles_ifunam_catalina.jpg" class="img-responsive img-centered">
-                                </a>
-			</p>
+            </div>
+        </div>
+   </section>
+   <section class="proyectos verdeo">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-5 col-md-offset-6">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_galeria_verde.png" alt="">
+			                <h4>Galer&iacute;a</h4>
+                        </div>
+                    </div>   
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-                                <a href="https://www.youtube.com/watch?v=ngve5GzW9bg" data-toggle="lightbox" data-gallery="youtubevideos">
-                                <img src="img/perfiles_ifunam_karen.jpg" class="img-responsive img-centered">
-                                </a>
-			</p>
+            </div>
+        </div>
+   </section>
+   <section class="proyectos lila">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-3 col-md-offset-1 text-center">
+                    <img class="img-responsive" src="img/charlas_divulgacion_seccion.png" alt="">
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-                                <a href="https://www.youtube.com/watch?v=dCtKPAtL_vQ" data-toggle="lightbox" data-gallery="youtubevideos">
-                                <img src="img/perfiles_ifunam_laura.jpg" class="img-responsive img-centered">
-                                </a>
-			</p>
+                <div class="col-xs-12 col-md-8 text-justify">
+			        <p>
+                        Charlas encaminadas a la difusi&oacute;n del conocimiento y acercamiento a la f&iacute;sica con el objetivo de fortalecer vocaciones, propiciar una mayor cultura cient&iacute;fica y generar di&aacute;logos con la sociedad que permitan discernir la relevancia y el impacto que tiene la ciencia como actividad crucial en nuestro pa&iacute;s.
+                    </p>
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-				<a href="https://www.youtube.com/watch?v=v9Jlxp_w9_Y" data-toggle="lightbox" data-gallery="youtubevideos">
-                                <img src="img/perfiles_ifunam_mariana.jpg" class="img-responsive img-centered">
-                                </a>
-			</p>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-6 col-md-offset-5">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_lugar_aqua.png" alt="">
+			                <p>Distintas fechas</br>12:00 a 13:00 horas</br>Auditorio Alejandra J&aacute;idar</br>Instituto de F&iacute;sica</p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive" src="img/icon_user_aqua.png" alt="">
+			                <p>P&uacute;blico no especializado y, especialmente, j&oacute;venes de zonas marginadas o alejadas de centros culturales o cient&iacute;ficos</p>
+                        </div>
+                    </div>   
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-				<a href="https://www.youtube.com/watch?v=uRvnMZ7i1I8" data-toggle="lightbox" data-gallery="youtubevideos">
-                                <img src="img/perfiles_ifunam_grisel.jpg" class="img-responsive img-centered">
-                                </a>
-			</p>
+            </div>
+            <div class="row">
+             <div class="col-xs-12 col-md-8 col-md-offset-2  text-center">
+                <div class="col-xs-6 col-md-4  text-center">
+                    <img class="img-responsive charlas" src="img/charla_divulgacion_noguez.png" alt="">
+			        <p>11 de febrero</br>Cecilia Noguez</p>
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-4 text-center">
-			<p>
-				<a href="https://www.youtube.com/watch?v=ZRbxmynf8OM" data-toggle="lightbox" data-gallery="youtubevideos">
-                                <img src="img/perfiles_ifunam_libertad.jpg" class="img-responsive img-centered">
-                                </a>
-			</p>
+                <div class="col-xs-6 col-md-4  text-center">
+                    <img class="img-responsive charlas" src="img/charla_divulgacion_brandan.png" alt="">
+			        <p>11 de marzo</br>Mar&iacute;a Ester Brandan</p>
+                </div>
+                <div class="col-xs-6 col-md-4 text-center">
+                    <img class="img-responsive charlas" src="img/charla_divulgacion_vazquez.png" alt="">
+			        <p>14 de abril</br>Erick V&aacute;zquez</p>
+                </div>
+             </div>
+            </div>
+            <div class="row">
+             <div class="col-xs-12 col-md-8 col-md-offset-2  text-center">
+                <div class="col-xs-6 col-md-4 text-center">
+                    <img class="img-responsive charlas" src="img/charla_divulgacion_esquivel.png" alt="">
+			        <p>21 de abril</br>Ra&uacute;l Esquivel</p>
+                </div>
+                <div class="col-xs-6 col-md-4 text-center">
+                    <img class="img-responsive charlas" src="img/charla_divulgacion_romero.png" alt="">
+			        <p>5 de mayo</br>Victor Romero</p>
+                </div>
+                <div class="col-xs-6 col-md-4 text-center">
+                    <img class="img-responsive charlas" src="img/charla_divulgacion_barrera.png" alt="">
+			        <p>19 de mayo</br>Rub&eacute;n Barrera</p>
+                </div>
+             </div>
+            </div>
+        </div>
+   </section>
+   <section class="proyectos purpura">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-5 col-md-offset-6">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_galeria_aqua.png" alt="">
+			                <h4>Galer&iacute;a</h4>
+                        </div>
+                    </div>   
+                </div>
+            </div>
+        </div>
+   </section>
+   <section class="proyectos rosa">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-3 col-md-offset-1 text-center">
+                    <img class="img-responsive" src="img/fisica_femenino_seccion.png" alt="">
+                </div>
+                <div class="col-xs-12 col-md-8 text-justify">
+			        <p>
+                    Una serie de encuentros entre cient&iacute;ficas, especialmente, y mujeres j&oacute;venes, con el fin de que conozcan la experiencia de investigadoras, especialmente mujeres, en el &aacute;rea de f&iacute;sica y conversen directamente con ellas para aclarar sus dudas y definir sus intereses profesionales, y as&iacute; contribuir para cerrar la brecha de g&eacute;nero que existe en el &aacute;rea de f&iacute;sica e impulsarlas a que estudien carreras con orientaci&oacute;n cient&iacute;fica. Acompa&ntilde;aremos los encuentros con una serie de videos animados sobre las aportaciones de nuestras investigadoras y tours cortos en algunos de los laboratorios del IF as&iacute; como de la Facultad de Ciencias.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-6 col-md-offset-5">
+                    <div class="row">
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_lugar_rosa.png" alt="">
+			                <p>1 de abril, 6 de mayo,</br>3 de junio, 1 de julio,</br>5 de agosto y 2 de septiembre</br>Jardines de los salones de posgrado</br>Instituto de F&iacute;sica</p>
+                        </div>
+                        <div class="col-xs-6 text-center">
+                            <img width="20%" class="img-responsive" src="img/icon_user_rosa.png" alt="">
+			                <p>J&oacute;venes, mujeres, de Centros de Estudios Tecnol&oacute;gico Industrial y de Servicios (CETIS) o Centros de Bachillerato Tecnol&oacute;gico Industrial y de servicios (CBTIS) con inter&eacute;s en cursar la carrera de f&iacute;sica</p>
+                        </div>
+                    </div>   
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-4 col-md-offset-4  text-center">
+                    <img class="img-responsive charlas" src="img/video_reportaje.png" alt="">
+                </div>
+            </div>
+            <div class="row">
+             <div class="col-xs-12 col-md-10 col-md-offset-1  text-center">
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-responsive charlas" src="img/video_brandan.png" alt="">
+			        <p>F&iacute;sica M&eacute;dica</br>Mar&iacute;a Ester Brandan</p>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-responsive charlas" src="img/video_cetto.png" alt="">
+			        <p>F&iacute;sica Cu&aacute;ntica</br>Ana Mar&iacute;a Cetto</p>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-responsive charlas" src="img/video_volke.png" alt="">
+			        <p>&Oacute;ptica</br>Karen Volke</p>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-responsive charlas" src="img/video_jauregui.png" alt="">
+			        <p>LANMAC</br>Roc&iacute;o J&aacute;uregui</p>
+                </div>
+             </div>
+            </div>
+            <div class="row">
+             <div class="col-xs-12 col-md-10 col-md-offset-1  text-center">
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-responsive charlas" src="img/video_mondragon.png" alt="">
+			        <p>F&iacute;sica de part&iacute;culas</br>Myriam Mondrag&oacute;n</p>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-responsive charlas" src="img/video_diaz.png" alt="">
+			        <p>F&iacute;sica Qu&iacute;mica</br>D&iacute;az</p>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-responsive charlas" src="img/video_solis.png" alt="">
+			        <p>LEMA</br>Corina Sol&iacute;s</p>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <img class="img-responsive charlas" src="img/video_noguez.png" alt="">
+			        <p>Nanociencias</br>Cecilia Noguez</p>
+                </div>
+             </div>
+            </div>
+        </div>
+   </section>
+   <section class="proyectos purpurao">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
+                    <div class="row">
+                        <div class="col-xs-12 col-md-5 col-md-offset-6">
+                            <img width="20%" class="img-responsive img-center" src="img/icon_galeria_rosa.png" alt="">
+			                <h4>Galer&iacute;a</h4>
+                        </div>
+                    </div>   
                 </div>
             </div>
         </div>

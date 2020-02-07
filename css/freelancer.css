@@ -1,98 +1,23 @@
 /*!
- * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ * Copyright 2020 IFUNAM
+ * Licensed under MIT ()
  */
+
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-weight:normal;
+  font-style: normal;
   overflow-x: hidden;
   background: #200041;
   color: #3F497E;
 }
+p {
+  font-size: 16px;
+  font-weight: normal;
+  color: #3E2465;
+}
 .dot{
   color: #FFFFFF;
-}
-
-div.blanco{
-  background: #FFFFFF;
-  width: 95%;
-}
-p {
-  font-size: 20px;
-  font-weight: 700;
-}
-div.form-group {
-  font-size: 15px;
-  font-weight: 700;
-}
-label{
-  font-size: 18px;
-  font-weight: 700;
-}
-p.small {
-  font-size: 16px;
-}
-p.principal {
-  font-size: 20px;
-  color: #000000;
-  font-weight: 500;
-  padding: 0;
-}
-p.secundario {
-  font-size: 20px;
-  color: #9f6eb0;
-  font-weight: 600;
-  padding: 0;
-}
-p.subtexto {
-  font-size: 20px;
-  color: #772f9d;
-  font-weight: 600;
-  padding: 0;
-}
-p.cuarto {
-  font-size: 20px;
-  color: #ffffff;
-  font-weight: 600;
-  padding: 0;
-}
-span.email {
-  font-size: 20px;
-  color: #ed3094;
-  font-weight: 600;
-  padding: 0;
-}
-span.email {
-  font-size: 20px;
-  color: #ed3094;
-  font-weight: 600;
-  padding: 0;
-}
-p.tabla1 {
-  font-size: 18px;
-  color: #221d45;
-  font-weight: 600;
-  padding: 0;
-}
-p.tabla2 {
-  font-size: 16px;
-  color: #f2762c;
-  font-weight: 500;
-  padding: 0;
-}
-p.tabla3 {
-  font-size: 15px;
-  color: #ce6c34;
-  font-weight: 400;
-  padding: 0;
-}
-p.textabstract {
-  font-size: 15px;
-  text-align: justify;
-  color: #f2762c;
-  font-weight: 400;
-  padding: 50px;
-  margin: 0 20% 0 20%;
 }
 table{
   background: #FFFFFF;
@@ -137,9 +62,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 5px 0 5px 0;
-  font-weight: 700;
+  font-weight: bolder;
 }
 hr.star-light,
 hr.star-primary {
@@ -188,7 +112,6 @@ header img {
 }
 header .intro-text .name {
   display: block;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
@@ -199,7 +122,6 @@ header .intro-text .skills {
 }
 @media (min-width: 1200px) {
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
   width: 1170px;
   overflow: auto;
@@ -215,9 +137,10 @@ header img {
   margin: 0;
 }
 .navbar-custom .navbar-nav {
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
   text-align: center;
   padding: 0 100px 0 0;
+  font-size: 20px;
 }
 }
 @media (max-width: 768px) {
@@ -237,18 +160,19 @@ header {
   }
 }
 .navbar-custom {
-  background: #380057;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-  font-weight: 700;
+  background: #F7B500;
+  /*text-transform: uppercase;*/
+  letter-spacing: 1.5px;
+  font-weight: normal;
   border: none;
   text-align: center;
+  font-size: 20px;
 }
 .navbar-custom a:focus {
   outline: none;
 }
 .navbar-custom .navbar-brand {
-  color: white;
+  color: black;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -257,10 +181,10 @@ header {
   color: white;
 }
 .navbar-custom .navbar-nav li a {
-  color: white;
+  color: black;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #c9dde8;
+  color: #3E2465;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -269,13 +193,13 @@ header {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #2D2B5C;
+  background: #3E2465;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #2D2B5C;
+  background: #3E2465;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -285,9 +209,9 @@ header {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color:#2D2B5C ;
+  background-color:#3E2465 ;
   color: white;
-  border-color: #2D2B5C;
+  border-color: #3E2465;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -309,6 +233,9 @@ header {
     font-size: 1.5em;
   }
 }
+
+/*Sections*/
+
 section {
   padding: 100px 0;
 }
@@ -323,52 +250,104 @@ section.banner img {
     width: 100%;
     height: auto;
 }
-section.perfiles {
-  background: #772F9D;
+section.proyectos  {
+  padding: 20px 0;
+}
+section.proyectos img.charlas{
+  padding: 20px 20px 0 20px;
+}
+section.proyectos p {
+  margin: 5%;
+  font-weight: 600;
+  padding: 5px;
+}
+section.proyectos H3 {
+  color: #F7B500;
+  font-weight: 100;
+  font-size: 30px;
+  margin: 0 10% 0 10%;
+  padding: 30px 0 40px 0;
+}
+
+section.morado{
+  background: #3E2465;
   color: white;
   padding: 20px 0;
 }
-section.perfiles p {
-  color: white;
-  background: #772f9d;
-  padding: 30px 0;
-  margin: 0 10% 0 10%;
+section.amarillo{
+  color: #3E2465;
+  background: #F7B500;
 }
-/*
-section.registro li {
+section.verde{
+  background: #0C3E54;
+  color: #81C8B3;
+}
+section.verde p{
+  color: #81C8B3;
+}
+section.aqua{
+  color: #0C3E54;
+  background: #81C8B3;
+}
+section.verdeo{
+  color: #81C8B3;
+  background: #062B3B;
+
+}
+section.lila{
+  background: #7D2870;
+}
+section.lila p{
+  color: #0AC6C0;
+}
+section.purpura{
+  background: #47103F;
+}
+section.purpura h4{
+  color: #0AC6C0;
+}
+section.rosa{
+  background: #B21368;
+}
+section.rosa p{
+  color: white;
+}
+section.purpurao{
+  background: #810E4B;
+}
+section.purpurao h4{
+  color: #FE84B2;
+}
+
+section.main{
+  padding: 20px;
+}
+section.main img{
+  margin: 0 auto; 
+}
+section.main p{
   margin: 0 15% 0 15%;
-  font-size: 20px;
-}
-*/
-section.intro2 {
-  background: #EEEEEE;
-  color: #772F9D;
   padding: 20px 0;
 }
-section.intro2 p{
-  margin: 0 10% 0 10%;
+
+section.intro2 {
+  background: #F0EAF8;
 }
-section.intro2 img{
-  margin: 0 auto;  
-}
+
 section.intro h3{
   color: #772F9D;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-weight: 600;
 }
 section.intro {
   background: #FFFFFF;
-  color: #555555;
-  padding: 20px 0;
 }
 section.intro h3{
-  color: #772F9D;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  color: #F7B500;
+  font-weight: 400;
+  font-size: 20px;
+  padding: 20px 0
 }
-section.intro p{
-  margin: 0 10% 0 10%;
-}
+
 section.intro li {
   color: #1F1D44;
   background: white;
@@ -381,28 +360,12 @@ section.eventos {
   padding: 20px 0;
 }
 section.eventos h3{
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
   font-weight: 700;
 }
-section.eventos a{
-  color: white;
-}
-section.eventos2 a{
-  color: white;
-}
-section.eventos3 a{
-  color: white;
-}
-section.eventos4 a{
-  color: white;
-}
-section.eventos5 a{
-  color: white;
-}
+
 section.eventos.p{
   color: white;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 600;
 }
 section.eventos2 {
@@ -497,7 +460,6 @@ footer .footer-above {
 }
 footer .footer-above h3{
   color: #772F9D;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 footer .footer-col {
