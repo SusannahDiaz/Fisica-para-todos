@@ -27,28 +27,22 @@
             <div class="row">
                 <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
                     <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <img class="img-responsive charlas" src="img/charla_divulgacion_noguez.png" alt="">
-			            <p class="small">11 de febrero</br>Cecilia Noguez</p>
+                        <?php include 'chats/gallery_cecilia.php'?>
                     </div>
                     <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <img class="img-responsive charlas" src="img/charla_divulgacion_brandan.png" alt="">
-			            <p class="small">11 de marzo</br>Mar&iacute;a Ester Brandan</p>
+                        <?php include 'chats/gallery_brandan.php'?>
                     </div>
                     <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <img class="img-responsive charlas" src="img/charla_divulgacion_vazquez.png" alt="">
-			            <p class="small">14 de abril</br>Erick V&aacute;zquez</p>
+                        <?php include 'chats/gallery_vazquez.php'?>
                     </div>
                     <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <img class="img-responsive charlas" src="img/charla_divulgacion_esquivel.png" alt="">
-			            <p class="small">21 de abril</br>Ra&uacute;l Esquivel</p>
+                        <?php include 'chats/gallery_esquivel.php'?>
                     </div>
                     <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <img class="img-responsive charlas" src="img/charla_divulgacion_romero.png" alt="">
-			            <p class="small">5 de mayo</br>Victor Romero</p>
+                        <?php include 'chats/gallery_romero.php'?>
                     </div>
                     <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <img class="img-responsive charlas" src="img/charla_divulgacion_barrera.png" alt="">
-			            <p class="small">19 de mayo</br>Rub&eacute;n Barrera</p>
+                        <?php include 'chats/gallery_barrera.php'?>
                     </div>
                 </div>
              <!--MD-->
