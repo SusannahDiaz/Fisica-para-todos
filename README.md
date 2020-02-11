@@ -6,6 +6,12 @@ En el Instituto de Física de la UNAM (IF), uno de nuestros principales compromi
 
 El proyecto **Física para Todos** desde el Instituto de Física incluye un conjunto de actividades diseñadas para acercar y difundir, de primera mano, las investigaciones que desarrollamos en el IF hacia los diferentes sectores, entre ellos, público en general, educación básica, media superior y superior. 
 
+- Puertas Abiertas
+- F&iacute;sica en tu futuro
+- Charlas de divulgaci&oacute;n
+- F&iacute;sica en femenino
+- F&iacute;sica para periodistas
+
 ### [Website](http://www.fisica.unam.mx/fisicaparatodos/)
 
 ### Enlaces
