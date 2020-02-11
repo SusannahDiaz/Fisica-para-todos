@@ -236,10 +236,10 @@ header {
     transition: all 0.3s;
   }
   .navbar-custom.affix {
-    padding: 25px 0;
+    padding: 0;
   }
   .navbar-custom.affix .navbar-brand {
-    font-size: 1.5em;
+    font-size: 1em;
   }
 }
 
@@ -273,6 +273,12 @@ section.proyectos p {
   font-weight: 600;
   padding: 5px;
 }
+section.proyectos p.small {
+  font-weight: 400;
+  padding: 5px;
+  font-size: 13px;
+  color: #FFFFFF;
+}
 section.proyectos H3 {
   color: #F7B500;
   font-weight: 100;
@@ -284,7 +290,7 @@ section.proyectos H3 {
 section.morado{
   background: #3E2465;
   color: white;
-  padding: 20px 0;
+  padding: 20px 20px 40px 20px;
 }
 section.amarillo{
   color: #3E2465;
@@ -355,7 +361,7 @@ section.azulo h4{
 section.gris{
   background: #EEEEEE;
   color: white;
-  padding: 20px 0;
+  padding: 20px 20px 40px 20px;
 }
 section.gris h3{
   color: #3E2465;
@@ -474,7 +480,8 @@ footer .footer-col {
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #A241D7;
+  color: #102F5D; 
+  background-color: #F7B500;
 }
 .btn-abstract {
   text-align: center;
