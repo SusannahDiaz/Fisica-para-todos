@@ -11,7 +11,7 @@
     <title>F&iacute;sica para todos</title>
     <link rel="shortcut icon" href="img/instituto-fisica-blanco-128x128.png" type="image/x-icon">
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Theme CSS -->
     <link href="css/freelancer.css" rel="stylesheet">
     <link href="css/ekko-lightbox.css" rel="stylesheet">

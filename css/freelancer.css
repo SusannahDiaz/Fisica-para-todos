@@ -1,6 +1,7 @@
 /*!
  * Copyright 2020 IFUNAM
- * Licensed under MIT ()
+ * Licensed under MIT
+ * Daniel Rosales
  */
 
 body {
@@ -8,7 +9,7 @@ body {
   font-weight:normal;
   font-style: normal;
   overflow-x: hidden;
-  background: #200041;
+  background: #FFFFFF;
   color: #3F497E;
 }
 p {
