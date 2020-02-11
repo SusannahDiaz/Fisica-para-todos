@@ -10,12 +10,15 @@
             <div class="row">
                 <div class="col-lg-12 text-justify">
 			        <p>
-                    En el Instituto de F&iacute;sica de la UNAM (IF), uno de nuestros principales compromisos es el de divulgar el conocimiento y difundir las labores que realizamos, no s&oacute;lo a p&uacute;blico especializado, sino a la sociedad en general.</br>El proyecto <strong>F&iacute;sica para Todos</strong> desde el Instituto de F&iacute;sica incluye un conjunto de actividades dise&ntilde;adas para acercar y difundir, de primera mano, las investigaciones que desarrollamos en el IF hacia los diferentes sectores, entre ellos, p&uacute;blico en general, educaci&oacute;n b&aacute;sica, media superior y superior. 
+                    En el Instituto de F&iacute;sica de la UNAM (IF), uno de nuestros principales compromisos es el de divulgar el conocimiento y difundir las labores que realizamos, no s&oacute;lo a p&uacute;blico especializado, sino a la sociedad en general.
+                    </p>
+                    <p>
+                    El proyecto <strong>F&iacute;sica para Todos</strong> desde el Instituto de F&iacute;sica incluye un conjunto de actividades dise&ntilde;adas para acercar y difundir, de primera mano, las investigaciones que desarrollamos en el IF hacia los diferentes sectores, entre ellos, p&uacute;blico en general, educaci&oacute;n b&aacute;sica, media superior y superior. 
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 col-md-offset-3 text-justify">
                     <h3>
-                    Dar a conocer la relevancia que la f&iacute;sica tiene en el avance cient&iacute;fico y tecnol&oacute;gico que acompaña nuestra cotidianeidad...
+                    Dar a conocer la relevancia que la f&iacute;sica tiene en el avance cient&iacute;fico y tecnol&oacute;gico que acompa&ntilde;a nuestra cotidianeidad...
                     </h3>
                     </div>
             </div>

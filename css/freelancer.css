@@ -29,6 +29,16 @@ img.small{
   width: 45px;
 }
 
+img.space{
+  padding: 0 0 20px 0;
+}
+img.header{
+  padding: 40px 0 0 0;
+}
+img.header2{
+  padding: 20px 0 0 0;
+}
+
 table{
   background: #FFFFFF;
   color: #f2762c;
@@ -278,6 +288,12 @@ section.proyectos p.small {
   font-weight: 400;
   padding: 5px;
   font-size: 13px;
+  color: #FFFFFF;
+}
+section.proyectos p.smaller {
+  font-weight: 400;
+  padding: 5px;
+  font-size: 11px;
   color: #FFFFFF;
 }
 section.proyectos H3 {

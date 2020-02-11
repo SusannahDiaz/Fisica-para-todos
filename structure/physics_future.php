@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-10 col-md-3 col-xs-offset-1 text-center">
-                    <img class="img-responsive" src="img/fisica_futuro_seccion.png" alt="">
+                    <img class="img-responsive header" src="img/fisica_futuro_seccion.png" alt="">
                 </div>
                 <div class="col-xs-12 col-md-8 text-justify">
 			        <p>
