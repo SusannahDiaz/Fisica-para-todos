@@ -1,5 +1,7 @@
 # [F&iacute;sica para todos, IFUNAM](https://github.com/work-ifunam/Fisica-para-todos/)
 
+![Texto alternativo](https://github.com/work-ifunam/Fisica-para-todos/blob/master/img/header.jpg)
+
 En el Instituto de Física de la UNAM (IF), uno de nuestros principales compromisos es el de divulgar el conocimiento y difundir las labores que realizamos, no sólo a público especializado, sino a la sociedad en general.
 
 El proyecto **Física para Todos** desde el Instituto de Física incluye un conjunto de actividades diseñadas para acercar y difundir, de primera mano, las investigaciones que desarrollamos en el IF hacia los diferentes sectores, entre ellos, público en general, educación básica, media superior y superior. 
