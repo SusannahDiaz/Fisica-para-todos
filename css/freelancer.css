@@ -274,7 +274,7 @@ section.proyectos  {
   padding: 20px 0;
 }
 section.proyectos img.charlas{
-  padding: 20px 20px 0 20px;
+  padding: 20px 20px 5px 20px;
 }
 section.proyectos img.charlatitle{
   padding: 20px;
@@ -333,12 +333,6 @@ section.lila{
   background: #7D2870;
 }
 section.lila p{
-  color: #0AC6C0;
-}
-section.purpura{
-  background: #47103F;
-}
-section.purpura h4{
   color: #0AC6C0;
 }
 section.rosa{

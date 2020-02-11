@@ -89,21 +89,6 @@
    </section>
     <!--Chats-->
     <?php include 'structure/chats.php'?>
-    <!--Gallery-->
-   <section class="proyectos purpura">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
-                    <div class="row">
-                        <div class="col-xs-12 col-md-5 col-md-offset-6">
-                            <img class="img-responsive img-center small" src="img/icon_galeria_aqua.png" alt="">
-			                <h4>Galer&iacute;a</h4>
-                        </div>
-                    </div>   
-                </div>
-            </div>
-        </div>
-   </section>
     <!--Female Physics-->
     <?php include 'structure/female_physics.php'?>
     <!--Gallery-->
