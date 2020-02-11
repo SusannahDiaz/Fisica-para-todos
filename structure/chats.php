@@ -8,12 +8,7 @@
 			        <p>
                         Charlas encaminadas a la difusi&oacute;n del conocimiento y acercamiento a la f&iacute;sica con el objetivo de fortalecer vocaciones, propiciar una mayor cultura cient&iacute;fica y generar di&aacute;logos con la sociedad que permitan discernir la relevancia y el impacto que tiene la ciencia como actividad crucial en nuestro pa&iacute;s.
                     </p>
-                </div>
-            </div>
-            <div class="row">
-                  <div class="col-xs-12 col-md-9 col-md-offset-3">
-                    <div class="row">
-                        <div class="col-xs-12 col-md-6 text-center">
+                    <div class="col-xs-12 col-md-6 text-center">
                             <img class="img-responsive img-center small" src="img/icon_lugar_aqua.png" alt="">
 			                <p>Distintas fechas</br>12:00 a 13:00 horas</br>Auditorio Alejandra J&aacute;idar</br>Instituto de F&iacute;sica</p>
                         </div>
@@ -21,7 +16,6 @@
                             <img class="img-responsive img-center small" src="img/icon_user_aqua.png" alt="">
 			                <p>P&uacute;blico no especializado y, especialmente, j&oacute;venes de zonas marginadas o alejadas de centros culturales o cient&iacute;ficos</p>
                         </div>
-                    </div>   
                 </div>
             </div>
             <div class="row">

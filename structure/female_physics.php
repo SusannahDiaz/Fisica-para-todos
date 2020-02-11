@@ -8,20 +8,14 @@
 			        <p>
                     Una serie de encuentros entre cient&iacute;ficas y mujeres j&oacute;venes, con el fin de que conversen para que las chicas aclaren sus dudas y definan sus intereses profesionales, y as&iacute; contribuir para cerrar la brecha de g&eacute;nero que existe en el &aacute;rea de f&iacute;sica e impulsarlas a que estudien carreras con orientaci&oacute;n cient&iacute;fica. Acompa&ntilde;aremos los encuentros con una serie de videos animados sobre las aportaciones de nuestras investigadoras y tours cortos en algunos de los laboratorios del IF as&iacute; como de la Facultad de Ciencias.
                     </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-md-9 col-md-offset-3">
-                    <div class="row">
-                        <div class="col-xs-12 col-md-6 text-center">
-                            <img class="img-responsive img-center small" src="img/icon_lugar_rosa.png" alt="">
-			                <p>11 de marzo, 1 de abril, 6 de mayo, </br>3 de junio y 1 de julio</br>Jardines de los salones de posgrado</br>Instituto de F&iacute;sica</p>
-                        </div>
-                        <div class="col-xs- 12 col-md-6 text-center">
-                            <img class="img-responsive img-center small" src="img/icon_user_rosa.png" alt="">
-			                <p>J&oacute;venes, mujeres con inter&eacute;s en cursar la carrera de f&iacute;sica</p>
-                        </div>
-                    </div>   
+                    <div class="col-xs-12 col-md-6 text-center">
+                        <img class="img-responsive img-center small" src="img/icon_lugar_rosa.png" alt="">
+			            <p>11 de marzo, 1 de abril, </br>6 de mayo, 3 de junio </br>y 1 de julio</br>Jardines de los salones </br>de posgrado</br>Instituto de F&iacute;sica</p>
+                    </div>
+                    <div class="col-xs- 12 col-md-6 text-center">
+                        <img class="img-responsive img-center small" src="img/icon_user_rosa.png" alt="">
+			            <p>J&oacute;venes, mujeres con inter&eacute;s en cursar la carrera de f&iacute;sica</p>
+                    </div>  
                 </div>
             </div>
             <div class="row">

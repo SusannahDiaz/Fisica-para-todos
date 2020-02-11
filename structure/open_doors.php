@@ -8,10 +8,6 @@
 			        <p>
                     Un evento para dar a conocer nuestro quehacer cient&iacute;fico y que los visitantes vean de primera mano la labor de investigaci&oacute;n en diversos temas de f&iacute;sica, te&oacute;rica y experimental, que se cultivan en el IF.    
                     </p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-md-9 col-md-offset-3">
                     <div class="row">
                         <div class="col-xs-12 col-md-6 text-center">
                             <img class="img-responsive img-center small" src="img/icon_lugar_morado.png" alt="">
