@@ -37,7 +37,7 @@
                 <div class="col-xs-6 col-md-2 col-md-offset-0 text-center">
                     <img src="img/colaborador_carina.png" class="img-responsive img-centered  charlas">
                     <p class="smaller">
-                        <strong>Carina cosme</strong>
+                        <strong>Carina Cosme</strong>
                         </br>Asistente en la Coordinaci&oacute;n del IF
                     </p>
                 </div>

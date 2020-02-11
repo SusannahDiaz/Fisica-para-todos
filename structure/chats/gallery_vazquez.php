@@ -11,4 +11,4 @@
         <img class="img-responsive img-center small" src="img/icon_galeria_aqua.png" alt="">
     <!--</a>-->
 </div>
-<p class="small">14 de abril</br>Erick V&aacute;zquez</p>		            
+<p class="small">14 de abril</br>Eric V&aacute;zquez</p>		            
