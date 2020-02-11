@@ -6,11 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="En el Instituto de F&iacute;sica de la UNAM (IF), uno de nuestros principales compromisos es el de divulgar el conocimiento y difundir las labores que realizamos, no s&oacute;lo a p&uacute;blico especializado, sino a la sociedad en general.</br>El proyecto <strong>F&iacute;sica para Todos</strong> desde el Instituto de F&iacute;sica incluye un conjunto de actividades dise&ntilde;adas para acercar y difundir, de primera mano, las investigaciones que desarrollamos en el IF hacia los diferentes sectores, entre ellos, p&uacute;blico en general, educaci&oacute;n b&aacute;sica, media superior y superior.">
     <meta name="author" content="Daniel Rosales">
-
     <title>F&iacute;sica para todos</title>
-
+    <link rel="shortcut icon" href="img/instituto-fisica-blanco-128x128.png" type="image/x-icon">
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
     <!-- Theme CSS -->
@@ -26,9 +25,7 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
 </head>
-
 <body id="page-top" class="index">
 
     <!-- Navigation -->
