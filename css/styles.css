@@ -279,6 +279,9 @@ section.proyectos  {
 section.proyectos img.charlas{
   padding: 20px 30px 5px 0px;
 }
+section.proyectos img.collab{
+  padding: 20px 15px 5px 15px;
+}
 section.proyectos img.charlatitle{
   padding: 20px;
 }
@@ -286,6 +289,13 @@ section.proyectos p {
   margin: 5%;
   font-weight: 600;
   padding: 5px;
+}
+section.proyectos p.collab {
+  font-weight: 400;
+  font-size: 11px;
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
 }
 section.proyectos p.small {
   font-weight: 400;
@@ -310,7 +320,6 @@ section.proyectos H3 {
 section.morado{
   background: #3E2465;
   color: white;
-  padding: 20px 20px 40px 20px;
 }
 section.amarillo{
   color: #3E2465;
