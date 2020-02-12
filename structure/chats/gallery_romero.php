@@ -1,4 +1,4 @@
-<img class="img-responsive charlas" src="img/charla_divulgacion_romero.png" alt="">
+<img class="img-responsive charlas opacity" src="img/charla_divulgacion_romero.png" alt="">
 <div class="col-xs-6">
     <!--<a href="" data-toggle="lightbox" data-gallery="youtubevideos">-->
         <img class="img-responsive img-center small opacity" src="img/icon_video_aqua.png" alt="">
