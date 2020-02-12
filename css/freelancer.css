@@ -28,6 +28,9 @@ p {
 img.small{
   width: 45px;
 }
+img.opacity{
+  opacity: 0.5;
+}
 
 img.space{
   padding: 0 0 20px 0;
