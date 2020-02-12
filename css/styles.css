@@ -320,6 +320,7 @@ section.proyectos H3 {
 section.morado{
   background: #3E2465;
   color: white;
+  padding: 20px 0 40px 0;
 }
 section.amarillo{
   color: #3E2465;
@@ -384,7 +385,7 @@ section.azulo h4{
 section.gris{
   background: #EEEEEE;
   color: white;
-  padding: 20px 20px 40px 20px;
+  padding: 20px 0 40px 0;
 }
 section.gris h3{
   color: #3E2465;
