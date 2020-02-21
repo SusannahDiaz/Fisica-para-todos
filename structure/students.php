@@ -52,7 +52,7 @@
                 <div class="col-xs-6 col-md-2 text-center">
                     <img src="img/collaborators/colaboradores_andres.png" class="img-responsive img-centered collab">
                     <p class="collab">
-                        <strong>Andr&eacute;s Res&eaecute;ndiz</strong>
+                        <strong>Andr&eacute;s Res&eacute;ndiz</strong>
                     </p>
                 </div>
                 <div class="col-xs-6 col-md-2 text-center">
