@@ -1,9 +1,5 @@
-<section class="banner">
-        <div class="container">
-            <div class="row">
-                    <img class="img-responsive" src="img/header.jpg" alt="">
-            </div>
-        </div>
+    <section class="header_amarillo text-center">
+	<p class="strong">Un proyecto del Instituto de F&iacute;sica apoyado por la Secretar&iacute;a de Educaci&oacute;n, Ciencia y Tecnolog&iacute;a de la CDMX (SECTEI)</p>
     </section>
     <section class="main intro">
         <div class="container">
