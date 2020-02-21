@@ -29,6 +29,8 @@
     <!-- Header -->
     <header>
     </header>
+    <!--Slider-->
+    <?php include 'structure/slider.php'?>
     <!--Introduction-->
     <?php include 'structure/intro.php'?>
     <!--Projects-->
@@ -60,7 +62,7 @@
                 <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
                     <div class="row">
                         <div class="col-xs-12 col-md-5 col-md-offset-6">
-                            <img class="img-responsive img-center small" src="img/icon_registro_verde.png" alt="">
+                            <img class="img-responsive img-center small opacity" src="img/icon_registro_verde.png" alt="">
 			                <h4>Registro</h4>
                         </div>
                     </div>   
@@ -75,7 +77,7 @@
                 <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
                     <div class="row">
                         <div class="col-xs-12 col-md-5 col-md-offset-6">
-                            <img class="img-responsive img-center small" src="img/icon_galeria_verde.png" alt="">
+                            <img class="img-responsive img-center small opacity" src="img/icon_galeria_verde.png" alt="">
 			                <h4>Galer&iacute;a</h4>
                         </div>
                     </div>   
@@ -94,7 +96,7 @@
                 <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
                     <div class="row">
                         <div class="col-xs-12 col-md-5 col-md-offset-6">
-                            <img class="img-responsive img-center small" src="img/icon_galeria_rosa.png" alt="">
+                            <img class="img-responsive img-center small opacity" src="img/icon_galeria_rosa.png" alt="">
 			                <h4>Galer&iacute;a</h4>
                         </div>
                     </div>   
@@ -111,7 +113,7 @@
                 <div class="col-xs-12 col-md-7 col-md-offset-1 text-center">
                     <div class="row">
                         <div class="col-xs-12 col-md-5 col-md-offset-6">
-                            <img class="img-responsive img-center small" src="img/icon_galeria_amarillo.png" alt="">
+                            <img class="img-responsive img-center small opacity" src="img/icon_galeria_amarillo.png" alt="">
 			                <h4>Galer&iacute;a</h4>
                         </div>
                     </div>   
@@ -123,6 +125,8 @@
     <?php include 'structure/allied_institutions.php'?>
     <!--Collaboratos-->
     <?php include 'structure/collaborators.php'?>
+    <!--Students-->
+    <?php include 'structure/students.php'?>
     <!--Collaboratos-->
     <?php //include 'structure/gallery.php'?>
     <!-- Footer -->
