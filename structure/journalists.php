@@ -26,14 +26,14 @@
                             <div class="amarillo">
                                 <h4>Programa 26 de junio</h4>
                             </div>
-                            <img class="img-responsive img-center small" src="img/icon_registro_amarillo.png" alt="">
+                            <img class="img-responsive img-center small opacity" src="img/icon_registro_amarillo.png" alt="">
                             <h4>Registro</h4>
                         </div>
                         <div class="col-xs-12 col-md-6 text-center">
                             <div class="amarillo">
                                 <h4>Programa 28 de septiembre</h4>
                             </div>
-                            <img class="img-responsive img-center small" src="img/icon_registro_amarillo.png" alt="">
+                            <img class="img-responsive img-center small opacity" src="img/icon_registro_amarillo.png" alt="">
                             <h4>Registro</h4>
                         </div>
                     </div>   
