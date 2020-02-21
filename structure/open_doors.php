@@ -20,10 +20,10 @@
                     </div>   
                     <div class="row">
                         <div class="col-xs-6 text-center">
-                            <img class="img-responsive img-center small" src="img/icon_video_morado.png" alt="">
+                            <img class="img-responsive img-center small opacity" src="img/icon_video_morado.png" alt="">
                         </div>
                         <div class="col-xs-6 text-center">
-                            <img class="img-responsive img-center small" src="img/icon_web_morado.png" alt="">
+                            <img class="img-responsive img-center small opacity" src="img/icon_web_morado.png" alt="">
                         </div>
                     </div>   
                 </div>
