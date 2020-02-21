@@ -321,8 +321,19 @@ section.morado{
   color: white;
   padding: 20px 0 40px 0;
 }
+section.moradoo{
+  background: #2B164A;
+  color: white;
+  padding: 20px 0 40px 0;
+}
 section.amarillo{
   color: #3E2465;
+  background: #F7B500;
+}
+section.header_amarillo{
+  color: #3E2465;
+  font-weight: 900;
+  padding: 10px 0 1px 0;
   background: #F7B500;
 }
 section.verde{
