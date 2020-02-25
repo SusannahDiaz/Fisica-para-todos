@@ -1,0 +1,56 @@
+{
+    "noguez": {
+      "id": "noguez",
+      "name": "Cecilia Noguez",
+      "date": "11 de febrero",
+      "work": "La física en nuestras vidas",
+      "youtube": "https://www.youtube.com/watch?v=qWDN0VBHdg8&feature=youtu.be&t=1",
+      "images": "14",
+      "active": "true"
+    },
+    "brandan": {
+      "id": "brandan",
+      "name": "María Ester Brandan",
+      "date": "11 de marzo",
+      "work": "PENDIENTE",
+      "youtube": "",
+      "images": "0",
+      "active": "false"
+    },
+    "vazquez": {
+      "id": "vazquez",
+      "name": "Eric Vázquez",
+      "date": "14 de abril",
+      "work": "Observando el Universo desde el interior de una mina a 2000 metros bajo tierra",
+      "youtube": "",
+      "images": "0",
+      "active": "false"
+    },
+    "esquivel": {
+      "id": "esquivel",
+      "name": "Raúl Esquivel",
+      "date": "21 de abril",
+      "work": "De la Tierra a los hoyos negros",
+      "youtube": "",
+      "images": "0",
+      "active": "false"
+    },
+    "romero": {
+      "id": "romero",
+      "name": "Victor Romero",
+      "date": "5 de mayo",
+      "work": "Los átomos y la luz",
+      "youtube": "",
+      "images": "0",
+      "active": "false"
+    },
+    "barrera": {
+      "id": "barrera",
+      "name": "Rubén Barrera",
+      "date": "19 de mayo",
+      "work": "La luz y la invisibilidad",
+      "youtube": "",
+      "images": "0",
+      "active": "false"
+    }
+  }

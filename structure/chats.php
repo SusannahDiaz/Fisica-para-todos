@@ -6,7 +6,7 @@
                 </div>
                 <div class="col-xs-12 col-md-8 text-justify">
 			        <p>
-                        Charlas encaminadas a la difusi&oacute;n del conocimiento y acercamiento a la f&iacute;sica con el objetivo de fortalecer vocaciones, propiciar una mayor cultura cient&iacute;fica y generar di&aacute;logos con la sociedad que permitan discernir la relevancia y el impacto que tiene la ciencia como actividad crucial en nuestro pa&iacute;s.
+                    La f&iacute;sica est&aacute; en todo, desde la medicina hasta la formaci&oacute;n del universo; y desde lo m&aacute;s grande hasta lo diminuto. En estas charlas, dirigidas a p&uacute;blico no especializado, te contamos la forma en la que la f&iacute;sica impacta en nuestras vidas. 
                     </p>
                     <div class="col-xs-12 col-md-6 text-center">
                             <img class="img-responsive img-center small" src="img/icon_lugar_aqua.png" alt="">
@@ -20,25 +20,43 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
-                    <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <?php include 'chats/gallery_cecilia.php'?>
-                    </div>
-                    <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <?php include 'chats/gallery_brandan.php'?>
-                    </div>
-                    <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <?php include 'chats/gallery_vazquez.php'?>
-                    </div>
-                    <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <?php include 'chats/gallery_esquivel.php'?>
-                    </div>
-                    <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <?php include 'chats/gallery_romero.php'?>
-                    </div>
-                    <div class="col-xs-6 col-md-4 col-md-offset-0 text-center">
-                        <?php include 'chats/gallery_barrera.php'?>
-                    </div>
+                <?php
+                // Get the contents of the JSON file 
+                $strJsonFileContents = file_get_contents("structure/data.json");
+                // Convert to array 
+                $array = json_decode($strJsonFileContents, true);
+                //var_dump($array); // print array
+                foreach ($array as $i) {
+                    if($i['active']!="true"){
+                        $image_style = "opacity";
+                        $i_comment = "<!--";
+                        $f_comment = "-->";
+                    }
+                    else{
+                        $image_style = "";
+                        $i_comment = "";
+                        $f_comment = "";
+                    }
+                    echo "<div class=\"col-xs-6 col-md-4 col-md-offset-0 text-center\">";
+                        echo "<img class=\"img-responsive charlas {$image_style}\" src=\"img/charla_divulgacion_{$i['id']}.png\" alt=\"\">";
+                        echo "<div class=\"col-xs-6\">";
+                            echo "{$i_comment}<a href=\"{$i['youtube']}\" data-toggle=\"lightbox\" data-gallery=\"youtubevideos\">{$f_comment}";
+                                echo "<img class=\"img-responsive img-center small {$image_style}\" src=\"img/icon_video_aqua.png\" alt=\"\">";
+                            echo "{$i_comment}</a>{$f_comment}";
+                        echo "</div>";
+                        echo "<div class=\"col-xs-6\">";
+                            echo "{$i_comment}<a href=\"img/charla_{$i['id']}/charla_{$i['id']}_01.jpg\" data-toggle=\"lightbox\" data-gallery=\"hidden-images-{$i['id']}\" class=\"col-4\">{$f_comment}";
+                                echo "<img class=\"img-responsive img-center small {$image_style}\" src=\"img/icon_galeria_aqua.png\" alt=\"\">";
+                            echo "{$i_comment}</a>{$f_comment}";
+                            for($x=2;$x<=$i['images']; $x++){
+                                $num = ($x<10) ? '0' : '';
+                                echo "<div data-toggle=\"lightbox\" data-gallery=\"hidden-images-{$i['id']}\" data-remote=\"img/charla_{$i['id']}/charla_{$i['id']}_$num$x.jpg\" data-title=\"\"></div>";
+                            }
+                        echo "</div>";
+                        echo "<p class=\"small\">{$i['date']}</br>{$i['name']}:</br> {$i['work']} </p>";		
+                    echo "</div>";
+                  }
+                    ?>
                 </div>
-             <!--MD-->
         </div>
    </section>
