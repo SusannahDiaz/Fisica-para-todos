@@ -6,7 +6,9 @@
                 </div>
                 <div class="col-xs-12 col-md-8 text-justify">
 			        <p>
-                    Un d&iacute;a para que la comunidad acad&eacute;mica del Instituto de F&iacute;sica d&eacute; a conocer los temas y l&iacute;neas de investigaci&oacute;n del IF con el prop&oacute;sito de invitarlos a continuar su formaci&oacute;n en el Posgrado en Ciencias F&iacute;sicas.
+                    Si eres estudiante de la carrera de f&iacute;sica, pero a&uacute;n no haces servicio social ni defines tu tema de tesis, te invitamos al D&iacute;a del IF en la Facultad de Ciencias. Podr&aacute;s platicar directamente con nuestros(as) investigadores(as) para conocer sus l&iacute;neas investigaci&oacute;n y proyectos... y unirte al IF como estudiante asociado(a).</p>
+                    <p>
+                    &iexcl;Te esperamos! 
                     </p>
                     <div class="col-xs-12 col-md-6 text-center">
                             <img class="img-responsive img-center small" src="img/icon_lugar_verde.png" alt="">

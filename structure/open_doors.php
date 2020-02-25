@@ -6,7 +6,10 @@
                 </div>
                 <div class="col-xs-12 col-md-8 text-justify">
 			        <p>
-                    Un evento para dar a conocer nuestro quehacer cient&iacute;fico y que los visitantes vean de primera mano la labor de investigaci&oacute;n en diversos temas de f&iacute;sica, te&oacute;rica y experimental, que se cultivan en el IF.    
+                    &iexcl;Ven a conocer todo lo que hacemos en el IF!
+                    </p>
+                    <p>
+                    Un d&iacute;a en el que abrimos laboratorios, oficinas, salas y auditorios para recibirte y contarte sobre la investigaci&oacute;n en diversos temas de f&iacute;sica, te&oacute;rica y experimental, que trabajamos acad&eacute;micos y estudiantes.
                     </p>
                     <div class="row">
                         <div class="col-xs-12 col-md-6 text-center">

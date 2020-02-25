@@ -6,10 +6,10 @@
             <div class="row">
                 <div class="col-lg-12 text-justify">
 			        <p>
-                    En el Instituto de F&iacute;sica de la UNAM (IF), uno de nuestros principales compromisos es el de divulgar el conocimiento y difundir las labores que realizamos, no s&oacute;lo a p&uacute;blico especializado, sino a la sociedad en general.
+                    &iquest;Te interesan los temas de f&iacute;sica? &iquest;Quieres entrar en contacto con personas que se dediquen profesionalmente a ella? &iquest;Quieres conocer laboratorios, aceleradores y microscopios de alt&iacute;sima resoluci&oacute;n? &iquest;Tienes dudas sobre qu&eacute; hacen y en qu&eacute; trabajan las personas que estudian f&iacute;sica? 
                     </p>
                     <p>
-                    El proyecto <strong>F&iacute;sica para Todos</strong> desde el Instituto de F&iacute;sica incluye un conjunto de actividades dise&ntilde;adas para acercar y difundir, de primera mano, las investigaciones que desarrollamos en el IF hacia los diferentes sectores, entre ellos, p&uacute;blico en general, educaci&oacute;n b&aacute;sica, media superior y superior. 
+                    Todo eso tendremos con <strong>F&iacute;sica para todos desde el Instituto de F&iacute;sica</strong>, cinco proyectos con los que queremos acercar los temas de f&iacute;sica y la investigaci&oacute;n que se realiza en M&eacute;xico a tu vida, para inspirarte, provocarte, atraerte a estudiar una carrera cient&iacute;fica y mostrarte la relevancia de la f&iacute;sica en nuestro entorno.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 col-md-offset-3 text-justify">
